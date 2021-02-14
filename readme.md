@@ -1,6 +1,6 @@
 # SylgarBot
 
-![Sylgar of the Bowl](https://user-images.githubusercontent.com/734535/107870076-548b9080-6e4a-11eb-8ea7-4f335fba1b25.jpg)
+![Sylgar of the Bowl](https://user-images.githubusercontent.com/734535/107870101-9ddbe000-6e4a-11eb-8310-858ace5262ee.jpg)
 
 Built and hosted on http://repl.it
 
